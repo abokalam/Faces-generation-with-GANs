@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project is PROJECT 3 of my Deep learning class at UDACITY. In this project, I built two neural network compete against each each other to generate new faces image from CelebA which is a large-scale face attributes dataset with more than 200K celebrity images.
+This project is PROJECT 5 of my Deep learning class at UDACITY. In this project, I built two neural network compete against each each other to generate new faces image from CelebA which is a large-scale face attributes dataset with more than 200K celebrity images.
 
 Generative adversarial networks (GANs) are algorithmic architectures that use two neural networks, pitting one against the other (thus the “adversarial”) in order to generate new, synthetic instances of data that can pass for real data. They are used widely in image generation, video generation and voice generation.
 
